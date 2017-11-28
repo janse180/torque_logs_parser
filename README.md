@@ -16,7 +16,3 @@ cat * > logs.out
 ```
 
 4. The script will output a file named out.csv which contains the parsed data. 
-
-
-
-
