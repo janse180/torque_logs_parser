@@ -3,7 +3,7 @@ This script takes a file of Adaptive Computing Torque logs and parses it to CSV.
 ## Usage
 1. Enter the torque log diretory. 
 ```bash 
-cd /var/spool/torque/server_logs
+cd /var/spool/torque/server_priv/accounting
 ```
 2. Concatinate all logs into a single file
 ```bash
